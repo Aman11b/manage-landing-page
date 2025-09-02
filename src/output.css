@@ -902,14 +902,14 @@ video {
 }
 
 body {
-  background-image: url("../images/bg-tablet-pattern.svg");
+  background-image: url("./images/bg-tablet-pattern.svg");
   background-repeat: no-repeat;
   background-size: 800px;
   background-position: 90% -25%;
 }
 
 #CTA {
-  background-image: url("../images/bg-simplify-section-desktop.svg");
+  background-image: url("./images/bg-simplify-section-desktop.svg");
   background-repeat: no-repeat;
 }
 
@@ -920,7 +920,7 @@ body {
   }
 
   #CTA {
-    background-image: url("../images/bg-simplify-section-mobile.svg");
+    background-image: url("./images/bg-simplify-section-mobile.svg");
   }
 }
 
